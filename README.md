@@ -1,1 +1,1 @@
-# DETEKSI HUMOR TEKS PENDEK MENGGUNAKAN MODEL INDOBERT
+# Short-Text-Humor-Detection-Using-the-IndoBERT-Model
